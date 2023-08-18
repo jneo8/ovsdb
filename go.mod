@@ -1,3 +1,3 @@
-module github.com/greenpau/ovsdb
+module github.com/jneo8/ovsdb
 
 go 1.14
